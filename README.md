@@ -3,7 +3,7 @@
 https://raqdevs.com/
 
 - 🔭 trabalho com front-end e back-end
-- 🌱 Estudando PHP, Python, JavaScript, C#, Html e CSS.
+- 🌱 Estudando PHP, Python, JavaScript, Html e CSS.
 <div align="center">
   <a href="https://www.instagram.com/elayne_carlabjj/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlinha20&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
