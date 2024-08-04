@@ -1,7 +1,7 @@
 ### Carlinha20 aqui! 👋
 
 
-- 🔭 trabalho com front-end e back-end
+- 🔭 Trabalho com front-end e back-end
 - 🌱 Estudando a cada dia para me aperfeiçoar.
 
 <div style="display: inline_block"><br>
