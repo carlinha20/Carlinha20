@@ -2,7 +2,7 @@
 
 
 - 🔭 trabalho com front-end e back-end
-- 🌱 Estudando PHP, Python, JavaScript, Html e CSS.
+- 🌱 Estudando a cada dia para me aperfeiçoar.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Carla-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
